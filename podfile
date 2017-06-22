@@ -1,0 +1,7 @@
+platform:ios,'7.0'
+target '瀑布流' do
+pod 'MJExtension'
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'CHTCollectionViewWaterfallLayout'
+end
